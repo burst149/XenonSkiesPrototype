@@ -2,8 +2,11 @@
 
 ## Description
 
-	A minigame developed as a milestone to test out the capabilities of the game engine I'm currently developing. The engine is written in C++.
-	It features:
+	A minigame developed as a milestone.
+	Made to test out the capabilities of the game engine I'm currently developing.
+	The game and the engine is written in C++.
+	
+	The engine features:
 		- 2D sprite rendering using OpenGL
 		- modular component/entity/system architecture
 		- dynamic resource management
@@ -16,5 +19,5 @@
 
 ## Credits
 
-Music used: Electroids by Jens Kiilstofte
-Licensed under Creative Commons Attribution 4.0 International
+	Music used: Electroids by Jens Kiilstofte
+	Licensed under Creative Commons Attribution 4.0 International
